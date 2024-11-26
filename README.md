@@ -66,7 +66,7 @@ The **Weather Application** is built using **React.js** and leverages Material-U
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Anshuman-Jha-01/React-weather-app.git
-   cd weather-app
+   cd React-weather-app
 
 2. **Install dependencies:**
     ```bash 
