@@ -1,0 +1,23 @@
+.InfoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;   
+}
+
+p {
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    padding: 1rem;
+    box-shadow: 1px 1px 5px rgba(39, 39, 39, 0.649);
+    margin: 0.5rem;
+}
+
+

@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#particles {
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
