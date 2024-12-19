@@ -1,6 +1,9 @@
+// Import environemntal variables
+import 'dotenv/config'
+
 // API URL and Key
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-const API_KEY = "[Your API Key]";
+const API_KEY = process.env.API_KEY;
     
 // Get weather data
 async function getWeatherInfo(city) {
